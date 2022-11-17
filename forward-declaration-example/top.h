@@ -8,6 +8,7 @@ class Top {
 
 	public:
 		Top();
+		void printTop();
 
 };
 
